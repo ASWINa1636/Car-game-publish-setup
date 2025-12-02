@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: cargame
+Version: 1.0.0
+Summary: Terminal Car Racing Game
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+cat > README.md << 'EOF'
+# cargame
+
+Terminal car racing game.
+
+- Run with: `car-game`
+- Change controls from in-game menu.
+EOF
